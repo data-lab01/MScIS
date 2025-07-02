@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/fe0a9182-0199-41b7-97d3-1878ad71d12b)
+
+
 # MScIS Thesis: Optimizing Data Quality in Real-Time, Time Series ETL Pipelines Using Monte Carlo Methods and Machine Learning
 
 📘 A research project submitted in partial fulfillment of the requirements for the degree of Master of Science in Information Systems at Uganda Martyrs University (UMU), Nkozi.
