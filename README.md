@@ -55,10 +55,10 @@ pip install -r requirements.txt
 
 3. Run Simulations and ML Correction
 cd scripts/
-python simulate_data.py
-python inject_anomalies.py
-python mcmc_cleaning.py
-python ml_correction.py
+python 1_Normal-sensor_data.py
+python 2_corrupt_sensor_data.py
+python 3_MCMC_simulation.py
+python 4_ML-Based Anomaly Detection and Correction.py
 
 
 4. View Grafana Dashboard
