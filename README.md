@@ -63,9 +63,7 @@ python 4_ML-Based Anomaly Detection and Correction.py
 
 4. View Grafana Dashboard
 
-Ensure InfluxDB and Grafana are running (via Docker or local installation) and configured properly.
-📷 Sample Visuals
-<p float="left"> <img src="figures/simulation_plot.png" width="45%"/> <img src="figures/mcmc_output.png" width="45%"/> </p>
+Ensure InfluxDB and Grafana are running (via Docker or local installation) and configured properly for effective pipelines.
 
 📚 References
 
