@@ -49,10 +49,6 @@ pip install -r requirements.txt
 
 2. Set Up Python Environment
 
-python3 -m venv thesis
-source thesis/bin/activate
-pip install -r requirements.txt
-
 3. Run Simulations and ML Correction
 cd scripts/
 python 1_Normal-sensor_data.py
